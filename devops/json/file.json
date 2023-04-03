@@ -1,0 +1,24 @@
+
+
+
+{
+  "student" :
+                     { "name" : "sharmila",
+                       "class"  : "8",
+                       "age"       : 23 },
+
+
+  "likes"      :
+                     { "colour" : "green",
+                       "food"  : "maggie",
+                        "city"      : "rayachoty" }
+
+
+}
+
+
+
+
+
+
+
